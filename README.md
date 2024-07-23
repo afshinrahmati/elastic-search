@@ -1,1 +1,1 @@
-# elastic-seatch
+# elastic-search
